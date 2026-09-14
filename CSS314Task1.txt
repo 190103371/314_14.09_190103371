@@ -1,0 +1,22 @@
+Task 1
+print(x, y)
+14, 7
+
+Task 2
+ It calculates sum of these numbers. 
+ total += numbers[i] 
+Just fixed = to +=
+
+Task 3
+A) 100
+B) 1000000
+C) 10000000
+
+Task 4
+I think Algorithm A grows faster
+
+Task 5
+ 2ⁿ, n², n log₂ n, n, log₂ n, 1
+
+2ⁿ would be problematic when n becomes mush larger. 
+
